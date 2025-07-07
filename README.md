@@ -53,3 +53,8 @@ En Yuksek Satis: Ayşe Kara - Laptop - 12500 TL
 1 - Urune gore filtrele
 2 - Tarihe gore filtrele
 Seciminiz:
+--- URUN SATIS GRAFIGI ---
+Laptop          | ########################## 12500 TL
+Monitor         | ########## 2500 TL
+Mouse           | ### 300 TL
+
